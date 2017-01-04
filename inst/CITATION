@@ -1,0 +1,40 @@
+citHeader("To cite package 'minimalRSD' in publications use:")
+
+citEntry(entry = "Article",
+  title        = "On the construction of response surface designs with                    minimum level changes",
+  author       = personList(as.person("Eldho Varghese"),
+                            as.person("Arpan Bhowmik"),
+                            as.person("Seema Jaggi"),
+                            as.person("Cini Varghese"),
+                            as.person("Shwetank Lall")
+                            ),
+  journal      = "Accepted for publication in Utilitas Mathematica",
+  year         = "2017",
+  volume       = "",
+  number       = "",
+  pages        = "",
+
+  textVersion  =
+  paste("Eldho Varghese, Arpan Bhowmik, Seema Jaggi, Cini Varghese and            Shwetank Lall (2017)",
+        "On the construction of response surface designs with                    minimum level changes",
+        "Utilitas Mathematica", "Under print")
+)
+citEntry(entry = "Article",
+  title        = "On the generation of cost effective response surface                   designs",
+  author       = personList(as.person("Eldho Varghese"),
+                            as.person("Arpan Bhowmik"),
+                            as.person("Seema Jaggi"),
+                            as.person("Cini Varghese"),
+                            as.person("Charanjit Kaur")
+                            ),
+  journal      = "Computers and Electronics in Agriculture",
+  year         = "2017",
+  volume       = "133",
+  number       = "",
+  pages        = "37-45",
+
+  textVersion  =
+  paste("Eldho Varghese, Arpan Bhowmik, Seema Jaggi, Cini Varghese and            Charanjit Kaur (2017)",
+        "On the generation of cost effective response surface                   designs",
+        "Computers and Electronics in Agriculture", "133, 37-45")
+)

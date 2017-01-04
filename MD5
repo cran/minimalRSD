@@ -1,0 +1,15 @@
+8bdfd6d2c6b86cc953dcd639f9bba1d2 *DESCRIPTION
+8f52ca5a714f169c2cb324bc802988d5 *NAMESPACE
+cff5b8f790062ec5e01284c84d07848b *R/bbd.R
+d980d3cbd17326acd4d56d05a8c31334 *R/ccd.R
+464fdc60caa7acea298bdbdd99fe0bb4 *R/ccd_halfrep.R
+0a98e39c247f3de95732c082f46f2714 *R/no_changes.R
+57837cea9c0545c00401851bd59b62b4 *R/package-minimalRSD.R
+18f0625c9aa7916f350e36d300e13299 *inst/CITATION
+c643fac2215ddd69179f421e10c1c0a6 *man/fact.pts.Rd
+7a4812b109ce02925e2a4077d41bfc30 *man/fact.pts_2.Rd
+158df2dfa0df0265334830751779cf3f *man/min_bbd.Rd
+2bd62b4ac5976edf10e78c2640cb9036 *man/min_ccd.Rd
+4b8433df299c4d93fea7988cc6fb2f60 *man/min_ccd_2.Rd
+ff1ae5c07989c02fd90678844ef28961 *man/minimalRSD.Rd
+9b512def7121dc5447c249e2729e3139 *man/num.ch.Rd
